@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CoCasali/optimize-data-management-store">
-    <img src="img/background.png" alt="Logo" width="80" height="80">
+    <img src="img/background.png" alt="Logo" width="500" height="350">
   </a>
 
 <h1 align="center">Optimize the data management of a store</h1>
